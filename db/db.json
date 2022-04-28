@@ -1,1 +1,12 @@
-[{"title":"Test","text":"Test","id":"123456"}]
+[
+    {
+        "title": "first note",
+        "text": "first note text",
+        "id": "97719cc9-4763-472b-86ff-843e48ca0d8a"
+    },
+    {
+        "title": "second note",
+        "text": "second note text",
+        "id": "b6dd61fb-d2fe-4277-a27c-df7954f89c88"
+    }
+]
